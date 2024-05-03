@@ -1,0 +1,34 @@
+.tip-calculator {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.tip-calculator input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.tip-calculator button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tip-calculator button:hover {
+  background-color: #45a049;
+}
+
+.tip-calculator p {
+  margin-top: 20px;
+  font-size: 20px;
+}
